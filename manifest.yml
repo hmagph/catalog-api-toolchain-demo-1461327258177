@@ -9,4 +9,4 @@ applications:
 declared-services:
   myMicroservicesCloudant:
     label: cloudantNoSQLDB
-    plan: Shared
+    plan: Lite
